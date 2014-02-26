@@ -1,0 +1,11 @@
+---
+title: IGDA Unity SIG
+layout: base
+---
+h1. IGDA Unity SIG
+
+Welcome to the temporary home of the IGDA Unity SIG. This location will be used to share general information and intentions until such a time where a more permanent solution is available.
+
+More to come.
+
+Mike, Oded and Emil
