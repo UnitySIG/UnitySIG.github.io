@@ -2,9 +2,44 @@
 title: IGDA Unity SIG
 layout: base
 ---
+
+p=. !/resources/logo.jpg!
+
 h1. IGDA Unity SIG
 
-Welcome to the temporary home of the IGDA Unity SIG. This location will be used to share general information and intentions until such a time where a more permanent solution is available.
+Welcome to the temporary home of the IGDA Unity Special Interest Group. This location will be used to share general information and intentions until such a time where a more permanent solution is available.
+
+h2. Mission Statement
+
+* Support communications of all Unity Users
+* Be inclusive (not just pro’s but the independent and solo developers)
+* Make available Unity-internal and external educational materials
+* Develop educational materials
+* Connect
+** Experts to those in need
+** Contract/job seekers to potential employers
+** Add-on/Asset Store creators/authors/tutorial Writers to their users
+** Local Chapters to
+*** New Members
+*** Unity Sales Reps
+*** Unity Training and Evangelists
+* Help share future plans/directions between end-users and Unity Technologies (both directions)
+
+h2. GDC 14 Rountable Meeting
+
+At this years GDC we are holding the first meeting of the SIG on Wednesday 19th at 1700. If you are at the conference, we highly recomend you stop by and let your opinion be known or just sit in and listen.
+
+The meeting agenda is as follows:
+
+# A brief overview of the Unity SIG Mission Statement.
+# Discussion on various goals, including:
+** Communications between Unity users and between Unity users and Unity staff.
+** Inclusiveness of pros, indie and solo developers alike.
+** Involving chapters in local activities.
+# Collaborative brainstorming on the role and creation of the SIG site.Anyone with interest in Unity is welcome to join the session.
+
+For more information, see "the GDC conference scheduler":http://schedule.gdconf.com/session-id/828274.
+
 
 More to come.
 
