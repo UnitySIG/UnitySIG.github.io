@@ -21,17 +21,17 @@ We covered the Mission Statement and since it is a work in progress we gathered 
 
 h3. Key Goals (Including New Ideas)
 
-# Connecting groups and individuals
-# Assessing skills
-# Best practices
-# Tips & Tricks
-# Webinars
-# Education (at multiple levels)
-# ...
+# Connecting Groups and Individuals  - Includes Local to Local, All Unity Users (You!), Noobs to Pros, Educators to Learners and those in-between, Users to Unity Technologies and Vice-Versa.
+# Assessing Skills - I think the idea here was perhaps to use this for helping us know our weaknesses and strengths as well as for self-promotion?
+# Best Practices - This area could have many sub-areas, like Programming, Asset Preparation and Organization, etc.
+# Tips & Tricks - As above.  Lots of areas here!  Things that are not necessarily published at Unity (yet!) or at least not found in one central location as we will have.
+# Webinars - This is where all the Local Unity SIGS can share with individuals and groups.  Individuals could share their particular expertise, or learning experiences with others, etc.  All levels!
+# Education (at multiple levels) - As above.  Miinimally, might hold links to existing educational areas[1].
+# Unity Developer Voice   - Used to filter and communicate the desires/wants/needs of developers to Unity Technologies.  Examples include Input and Accessibility.  Advocacy - but friendly!
 
 h3. Representation
 
-Many folks introduced themselves and I would like to eventually post all the attendees here in order of introduction[1] .  For now, here is a list of the organizations and types of individuals that showed up:
+Many folks introduced themselves and I would like to eventually post all the attendees here in order of introduction[2] .  For now, here is a list of the organizations and types of individuals that showed up:
 Rochester Institute of Technology, Women In Game SIG leader, undergraduate and graduate students, a few professors, Cogswell College,  GGJ Club, University of Tennessee, Digipen, USC, Dreamworks, and many more.
 
 h3. Some IGDA Unity SIG's and Chapters Represented
@@ -48,15 +48,18 @@ h3. Some IGDA Unity SIG's and Chapters Represented
 
 h3. New Members / Areas of Interest
 
-* Jeanett Mathews – General management and the Wiki.
-* Rahul Khuran – Best Practices
-* Gregory P. Garvey – Educational aspects.
-* Justen T. Hootman – General contributor.
-* Paul D. Quinones – General contributor.
-* Justin Millard - General contributor. Contact Brandon Wu since he's in Kirkland/Seattle?
-* Sebastian Holzfeind - General contributor.
+| Name | Interest |
+| Jeanett Mathews | General management and the Wiki |
+| Rahul Khuran | Best Practices |
+| Gregory P. Garvey | Educational aspects |
+| Justen T. Hootman | General contributor |
+| Paul D. Quinones | General contributor |
+| Justin Millard | General contributor. Contact Brandon Wu since he's in Kirkland/Seattle? |
+| Sebastian Holzfeind | General contributor |
 
-fn1.  Didn't think to start on that until we were half way around the room. :-)
+fn1.  Unity Technologies already does a good job, so once again we don't want to "reinvent the wheel".  Still, there is lots of room for presenting information from a different point of view, or expanding on those areas where the Unity website is weak.
 
-"Home":index
+fn2.  Didn't think to start on that until we were half way around the room. :-)
+
+"Home":/index
 -mlc 
