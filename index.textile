@@ -9,6 +9,12 @@ h1. IGDA Unity SIG
 
 Welcome to the temporary home of the IGDA Unity Special Interest Group. This location will be used to share general information and intentions until such a time where a more permanent solution is available.
 
+h2. Resources
+
+* Twitter: "@IGDAUnity":https://twitter.com/IGDAUnity
+* Facebook "group":https://www.facebook.com/groups/700058053360924/
+* Facebook page: Link pending
+
 h2. Mission Statement
 
 * Support communications of all Unity Users
