@@ -50,7 +50,7 @@ h3. Some IGDA Unity SIG's and Chapters Represented
 
 h3. New Members / Areas of Interest
 
-| Name | Interest |
+| +Name+ | +Interest+ |
 | Jeanett Mathews | General management and the Wiki |
 | Rahul Khuran | Best Practices |
 | Gregory P. Garvey | Educational aspects |
