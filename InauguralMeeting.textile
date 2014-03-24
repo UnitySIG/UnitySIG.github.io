@@ -3,6 +3,8 @@ title:Inaugural Meeting
 layout: base
 ---
 
+p=. !/resources/logo.jpg!
+
 h1. Inaugural IGDA Unity SIG  Meeting
 
 h2. LOCATION
