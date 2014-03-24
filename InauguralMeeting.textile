@@ -1,0 +1,62 @@
+---
+title:Inaugural Meeting
+layout: base
+---
+
+h1. Inaugural IGDA Unity SIG  Meeting
+
+h2. LOCATION
+
+GDC 2014, San Francisco, California
+North Hall Moscone Center, ROOM 114
+March 19th 2014, 5-6 pm
+
+h2. NOTES
+
+Introduced our founders and Steering Comittee Members: Oded Sharon (Acting Chair), Mike Croswell (Acting Secretary) and Emil (AngryAnt) Johansen (Acting Co-Chair). 
+
+Other co-founders introduced themselves later: Phil Ludington (DC Unity SIG) and Dan Fischbach (affiliated with Philadelphia Unity Group).
+
+We covered the Mission Statement and since it is a work in progress we gathered the attendees' ideas of what they think the emphasis of our group should be.
+
+h3. Key Goals (Including New Ideas)
+
+# Connecting groups and individuals
+# Assessing skills
+# Best practices
+# Tips & Tricks
+# Webinars
+# Education (at multiple levels)
+# ...
+
+h3. Representation
+
+Many folks introduced themselves and I would like to eventually post all the attendees here in order of introduction[1] .  For now, here is a list of the organizations and types of individuals that showed up:
+Rochester Institute of Technology, Women In Game SIG leader, undergraduate and graduate students, a few professors, Cogswell College,  GGJ Club, University of Tennessee, Digipen, USC, Dreamworks, and many more.
+
+h3. Some IGDA Unity SIG's and Chapters Represented
+
+* Vienna IGDA (Unity3D Group Soon!), Austria – Sebastian Holzfeind
+* Tel Aviv IGDA and Unity Users Group, Israel – Oded Sharon
+* DC Area Unity Users Group, USA – Phillip Ludington, Founder
+* Houston Unity Group - Justen T. Hootman, Member
+* Copenhagen, Denmark – Emil Johansen, Co-Founder of Unity SIG's
+* Philadelphia, PA, USA – Dan Fischbach, Member
+* Fort Collins Unity SIG, CO, USA - Mike Croswell
+* Taiwan SIG - ?
+* Seattle SIG - Brandon Wu 
+
+h3. New Members / Areas of Interest
+
+* Jeanett Mathews – General management and the Wiki.
+* Rahul Khuran – Best Practices
+* Gregory P. Garvey – Educational aspects.
+* Justen T. Hootman – General contributor.
+* Paul D. Quinones – General contributor.
+* Justin Millard - General contributor. Contact Brandon Wu since he's in Kirkland/Seattle?
+* Sebastian Holzfeind - General contributor.
+
+fn1.  Didn't think to start on that until we were half way around the room. :-)
+
+"Home":index
+-mlc 
