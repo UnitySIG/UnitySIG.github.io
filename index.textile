@@ -27,9 +27,10 @@ h2. Mission Statement
 
 h2. GDC 14 Rountable Meeting
 
-At this years GDC we are holding the first meeting of the SIG on Wednesday 19th at 1700. If you are at the conference, we highly recomend you stop by and let your opinion be known or just sit in and listen.
+At this years GDC we -are holding- held the first meeting of the SIG on Wednesday 19th at 1700. - If you are at the conference, we highly recomend you stop by and let your opinion be known or just sit in and listen.- We had a decent turnout and would like to thank those that showed-up and those that would've if the could've.
 
-The meeting agenda is as follows:
+
+The meeting agenda -is- was as follows:
 
 # A brief overview of the Unity SIG Mission Statement.
 # Discussion on various goals, including:
@@ -40,6 +41,7 @@ The meeting agenda is as follows:
 
 For more information, see "the GDC conference scheduler":http://schedule.gdconf.com/session-id/828274.
 
+See "Inaugural Meeting Notes":InauguralMeeting
 
 More to come.
 
