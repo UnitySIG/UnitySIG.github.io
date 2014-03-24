@@ -23,7 +23,7 @@ We covered the Mission Statement and since it is a work in progress we gathered 
 
 h3. Key Goals (Including New Ideas)
 
-# Connecting Groups and Individuals  - Includes Local to Local, All Unity Users (You!), Noobs to Pros, Educators to Learners and those in-between, Users to Unity Technologies and Vice-Versa.
+# Connecting Groups and Individuals  - Includes Local to Local, All Unity Users & Unity Technlogy Employees (*You!*) to each other, Noobs to Pros, Educators to Learners and those in-between, Users to Unity Technologies and Vice-Versa.
 # Assessing Skills - I think the idea here was perhaps to use this for helping us know our weaknesses and strengths as well as for self-promotion?
 # Best Practices - This area could have many sub-areas, like Programming, Asset Preparation and Organization, etc.
 # Tips & Tricks - As above.  Lots of areas here!  Things that are not necessarily published at Unity (yet!) or at least not found in one central location as we will have.
