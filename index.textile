@@ -12,8 +12,10 @@ Welcome to the temporary home of the IGDA Unity Special Interest Group. This loc
 h2. Resources
 
 * Twitter: "@IGDAUnity":https://twitter.com/IGDAUnity
+* Google "Group": https://groups.google.com/forum/#!forum/igda-unity-sig
 * Facebook "group":https://www.facebook.com/groups/700058053360924/
-* Facebook page: Link pending
+* Facebook "page": https://www.facebook.com/IGDAUnity
+
 
 h2. Mission Statement
 
@@ -31,9 +33,13 @@ h2. Mission Statement
 *** Unity Training and Evangelists
 * Help share future plans/directions between end-users and Unity Technologies (both directions)
 
+h2. GDC 2015 Rountable Meeting
+
+We're hoping to have another annual roundtable meeting. Stay tuned for more details.
+
 h2. GDC 14 Rountable Meeting
 
-At this years GDC we held the first meeting of the SIG on Wednesday 19th at 1700. 
+During last year's GDC we held the first meeting of the SIG 
 We had a decent turnout and would like to thank those that showed-up and those that would've if they could've.  
 Special thanks to those that added value to our Mission Statement (see notes).
 
