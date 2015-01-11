@@ -12,9 +12,9 @@ Welcome to the temporary home of the IGDA Unity Special Interest Group. This loc
 h2. Resources
 
 * Twitter: "@IGDAUnity":https://twitter.com/IGDAUnity
-* Google "Group": https://groups.google.com/forum/#!forum/igda-unity-sig
+* Google "Group":https://groups.google.com/forum/#!forum/igda-unity-sig
 * Facebook "group":https://www.facebook.com/groups/700058053360924/
-* Facebook "page": https://www.facebook.com/IGDAUnity
+* Facebook "page":https://www.facebook.com/IGDAUnity
 
 
 h2. Mission Statement
